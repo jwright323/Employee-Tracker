@@ -65,4 +65,4 @@ This repository is licensed under the MIT License.
 
 ## Contributing
 
-This repository is a homework project and is not accepting contributions.
+No additional contributions required.
