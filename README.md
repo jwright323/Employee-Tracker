@@ -5,7 +5,7 @@
 
 ## Description
 
-Companies often require an application to manage all employees working in a company. Human resources department uses applications like these to ADD/UPDATE/DELETE employees and their ROLES/DEPARTMENTS/SALARIES etc. This app was developed using NODE, INQUIRER and MySQL.
+Companies often require an application to manage all employees working in a company. Human resources department uses applications like these to add, update or delete employees and all other relevant information. This app was developed using node, inquirer and MySQL.
 
 The command-line application allows the user to:
 * Add departments, roles, employees
@@ -52,12 +52,8 @@ The main menu prompts the user to decide if he/she wants to Add, View, Update, D
 * UPDATE --> Update Employee roles, Update Employee Managers
 * DELETE --> Delete Department, Delete Role, Delete Employee
 
-### Employee Tracker node app.js Image
-![Employee Tracker node app.js Image]
-
-
 ### Employee Tracker Video
-[Employee Tracker Video Link]
+[Employee Tracker Video Link]https://drive.google.com/file/d/1OEvqZb6v-xsluyTePW36q269sMcPqRhD/view
 
 
 ## License
